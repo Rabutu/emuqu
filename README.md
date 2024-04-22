@@ -1,0 +1,2 @@
+# emuqu
+Emūqu (Akkadian): resources
