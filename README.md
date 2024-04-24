@@ -10,4 +10,4 @@ _Don't forget to read the documentation!_
 
 ## Projects
 [100 Projects](https://www.100projects.dev/) - Cycle through these and implement them in Nim, as much as possible!  
-[Advent of Code](https://adventofcode.com/) - Understand data types, conditionals, and loops, then start attempting these
+[Advent of Code](https://adventofcode.com/) - Get comfortable with Nim's data types, conditionals, and loops, then start crushing these!
