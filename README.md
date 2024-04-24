@@ -9,5 +9,5 @@ _Don't forget to read the documentation!_
 ## Channels
 
 ## Projects
-[100 Projects](https://www.100projects.dev/) - Cycle through these and implement them in Nim, as much as possible!
+[100 Projects](https://www.100projects.dev/) - Cycle through these and implement them in Nim, as much as possible!  
 [Advent of Code](https://adventofcode.com/) - Understand data types, conditionals, and loops, then start attempting these
